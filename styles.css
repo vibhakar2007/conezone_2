@@ -445,7 +445,7 @@ footer {
   text-align: center;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   #home {
     display: flex;
     flex-direction: column;
@@ -671,3 +671,4 @@ footer {
     gap: 4rem;
   }
 }
+
